@@ -1,0 +1,45 @@
+﻿@model IEnumerable<GBlientes.UI.ViewModels.SaldoViewModel>
+
+@{
+    ViewBag.Title = "Pontuações";
+}
+
+<h2>Pontuações</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Cliente")
+        </th>
+        <th>
+            @Html.DisplayName("Empresa")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pontos)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Empresa.Razao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pontos)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SaldoId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.SaldoId }) |
+            @Html.ActionLink("Resgate de Pontos", "Delete", new { id=item.SaldoId })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,8 @@
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.Helpers\bin\Debug\GClientes.Helpers.dll
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.Helpers\bin\Debug\GClientes.Helpers.pdb
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.Helpers\obj\Debug\GClientes.Helpers.dll
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.Helpers\obj\Debug\GClientes.Helpers.pdb
+C:\inetpub\wwwroot\DOTZ\GClientes.Helpers\bin\Debug\GClientes.Helpers.dll
+C:\inetpub\wwwroot\DOTZ\GClientes.Helpers\bin\Debug\GClientes.Helpers.pdb
+C:\inetpub\wwwroot\DOTZ\GClientes.Helpers\obj\Debug\GClientes.Helpers.dll
+C:\inetpub\wwwroot\DOTZ\GClientes.Helpers\obj\Debug\GClientes.Helpers.pdb

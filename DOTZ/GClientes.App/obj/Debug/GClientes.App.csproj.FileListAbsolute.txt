@@ -1,0 +1,14 @@
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.App\bin\Debug\GClientes.App.dll
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.App\bin\Debug\GClientes.App.pdb
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.App\obj\Debug\GClientes.App.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.App\obj\Debug\GClientes.App.dll
+C:\inetpub\wwwroot\DDD_TDD_ORM\GClientes\GClientes.App\obj\Debug\GClientes.App.pdb
+C:\inetpub\wwwroot\DOTZ\GClientes.App\bin\Debug\GClientes.App.dll
+C:\inetpub\wwwroot\DOTZ\GClientes.App\bin\Debug\GClientes.App.pdb
+C:\inetpub\wwwroot\DOTZ\GClientes.App\bin\Debug\GClientes.Domain.dll
+C:\inetpub\wwwroot\DOTZ\GClientes.App\bin\Debug\GClientes.Helpers.dll
+C:\inetpub\wwwroot\DOTZ\GClientes.App\bin\Debug\GClientes.Domain.pdb
+C:\inetpub\wwwroot\DOTZ\GClientes.App\bin\Debug\GClientes.Helpers.pdb
+C:\inetpub\wwwroot\DOTZ\GClientes.App\obj\Debug\GClientes.App.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\DOTZ\GClientes.App\obj\Debug\GClientes.App.dll
+C:\inetpub\wwwroot\DOTZ\GClientes.App\obj\Debug\GClientes.App.pdb
