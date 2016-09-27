@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\Relacionamento\bin\Debug\Relacionamento.dll
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\Relacionamento\bin\Debug\Relacionamento.pdb
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\Relacionamento\obj\Debug\Relacionamento.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\Relacionamento\obj\Debug\Relacionamento.dll
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\Relacionamento\obj\Debug\Relacionamento.pdb

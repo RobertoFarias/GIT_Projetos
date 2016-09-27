@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\bin\Debug\teste.exe.config
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\bin\Debug\teste.exe
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\bin\Debug\teste.pdb
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\bin\Debug\Relacionamento.dll
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\bin\Debug\Relacionamento.pdb
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\obj\Debug\teste.Form1.resources
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\obj\Debug\teste.Properties.Resources.resources
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\obj\Debug\teste.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\obj\Debug\teste.exe
+C:\inetpub\wwwroot\Relacionamento\Relacionamento\teste\obj\Debug\teste.pdb
